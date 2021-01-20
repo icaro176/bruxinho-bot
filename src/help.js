@@ -1,13 +1,13 @@
 const help = (prefix, pushname, botname, oname) => {
 	return `
-  「 *ARR157 BOT* 」
+  「 *SETH BOT* 」
 ࿇ ══━━━━✥◈✥━━━━══ ࿇
   SALVE✌️🏻
   
   ◪ *INFORMAÇÕES*
     ❏ Prefix: 「  ${prefix}  」
-    ❏ Criador: BRUXINHO MODS
-    ❏ Numero do meu criador: https://wa.me/+51924318593
+    ❏ Criador: ICARO
+    ❏ Numero do meu criador: https://wa.me/+557988645802
  ࿇ ══━━━━✥◈✥━━━━══ ࿇
     Outros Menus
     ❏${prefix}nsfwmenu
