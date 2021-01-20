@@ -1,5 +1,5 @@
 const bruxinhomenu = (prefix, pushname) => {
-    return `◪ *Comandos do bruxinho*
+    return `◪ *Comandos do seth*
     │
     ├─ ❏ ${prefix}setprefix
     ├─ ❏ ${prefix}block
